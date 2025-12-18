@@ -1,4 +1,4 @@
-const webhookURL = "https://YOUR-N8N-DOMAIN/webhook/moto-chat";
+const webhookURL = "https://app.softinsert.com/webhook/3090a203-84a1-4e36-925d-2bfe5ef65bf5/chat";
 
 function addMessage(text, sender) {
   const box = document.getElementById("chat-box");
